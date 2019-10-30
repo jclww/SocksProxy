@@ -44,7 +44,7 @@
         <maven.compiler.target>1.8</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
-        <netty.version>4.1.36.Final</netty.version>
+        <netty.version>4.1.42.Final</netty.version>
         <fastjson.version>1.2.32</fastjson.version>
         <lombok.version>1.18.2</lombok.version>
     </properties>
